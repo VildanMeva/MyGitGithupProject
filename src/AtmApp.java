@@ -10,9 +10,8 @@ public class AtmApp {
         System.out.println("javayi ogrenmek cok kolay");
         //versiyon4
 
-        System.out.println("git ogrenmek ne kadar da zormus");
-        //versiyon5
-
+        System.out.println("git ogrenmek ne kadar da keyifli ve zevkli");
+        //versiyon6
 
     }
 }
