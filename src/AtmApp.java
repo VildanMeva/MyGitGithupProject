@@ -8,3 +8,4 @@ public class AtmApp {
 
     }
 }
+//remote repoda degisiklik yaptim
